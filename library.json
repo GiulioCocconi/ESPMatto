@@ -1,0 +1,13 @@
+{
+  "name": "ESPMatto",
+  "version": "1.0",
+  "description": "Libreria per gestione ESP",
+  "keywords": "",
+  "repository":
+  {
+    "type": "git",
+    "url": "LINK"
+  },
+  "frameworks": ["arduino"],
+  "platforms": "*"
+}
