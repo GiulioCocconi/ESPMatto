@@ -6,7 +6,7 @@
   "repository":
   {
     "type": "git",
-    "url": "LINK"
+    "url": "https://github.com/GiulioCocconi/ESPMatto"
   },
   "frameworks": ["arduino"],
   "platforms": "*"
